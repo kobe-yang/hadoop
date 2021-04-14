@@ -1,4 +1,4 @@
-package com.zy.hadoop;
+package com.yang.hadoop;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
